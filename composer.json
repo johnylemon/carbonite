@@ -1,0 +1,28 @@
+{
+    "name": "johnylemon/carbonite",
+    "description": "Simple library for easy time spans manipulations",
+    "license": "MIT",
+    "version": "1.0.0",
+    "keywords": [
+        "date range",
+        "timespan",
+        "datetime",
+        "date manipulation",
+        "carbonite",
+        "carbon"
+    ],
+    "authors": [
+        {
+            "name": "Piotr Krzempek",
+            "email": "mail@piotrkrzempek.pl"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lemon\\": "src"
+        }
+    }
+}
