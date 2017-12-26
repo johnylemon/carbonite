@@ -1,6 +1,6 @@
 {
     "name": "johnylemon/carbonite",
-    "description": "Simple library for easy time spans manipulations",
+    "description": "Simple library for easy time span manipulations",
     "license": "MIT",
     "version": "1.0.0",
     "keywords": [

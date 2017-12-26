@@ -11,3 +11,6 @@ Simple library for easy time span manipulations
     }
 }
 ```
+
+@TODO
+examples and docs
